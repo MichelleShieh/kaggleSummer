@@ -4,7 +4,7 @@ brianstorming features => create features => check features with algorithm model
 
 2.models (one per person per two weeks)
 	logitstic regression：对feature要求高
-	random forest tree：跑的快还有feature selection功能
+	random decision forest：跑的快还有feature selection功能
 	factorization matchines
 	Boosted Decision Tree：
 		extreme gradient boosting (xgboost): python上有实现的包  http://cos.name/2015/03/xgboost/
