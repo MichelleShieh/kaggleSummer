@@ -16,3 +16,10 @@ brianstorming features => create features => check features with algorithm model
 4.ensemble learning (e.g.random forest + gbdt)
 https://en.wikipedia.org/wiki/Ensemble_learning
 
+
+资料：
+http://blog.kaggle.com #script of week, interview of winner
+
+
+
+
