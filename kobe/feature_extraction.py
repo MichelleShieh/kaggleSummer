@@ -65,7 +65,7 @@ def main():
 	print FeatureM_train.shape, FeatureM_test.shape, Labels_train.shape
 	
 	print 'try out random forest'
-	clf = RandomForestClassifier(n_estimators = 2001)
+	clf = RandomForestClassifier(n_estimators = 201)
 	scores = cross_val_score(clf, FeatureM_train, Labels_train, cv = 5)
 	clf.fit(FeatureM_train, Labels_train)
 	Labels_test = clf.predict(FeatureM_test)
